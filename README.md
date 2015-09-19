@@ -1,4 +1,4 @@
-## Standford CS106A Programming Methodology
+## Standford Programming Methodology Course
 
 ###source code for a few games implemented with Java in this class
 
